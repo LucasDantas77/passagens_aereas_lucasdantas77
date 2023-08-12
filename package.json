@@ -5,10 +5,12 @@
     "typeorm": "typeorm-ts-node-commonjs"
   },
   "dependencies": {
+    "@types/bcrypt": "^5.0.0",
     "@types/cors": "^2.8.13",
     "@types/dotenv": "^8.2.0",
     "@types/express": "^4.17.17",
     "@types/pg-format": "^1.0.2",
+    "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
     "data-source": "^5.3.2",
     "dotenv": "^16.3.1",
